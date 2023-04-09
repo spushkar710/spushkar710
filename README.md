@@ -4,6 +4,7 @@ Hi 👋 My name is Pushkar Singh
 
 Web Developer and Coder
 -----------------------
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif?cid=ecf05e47st7iigc1mp9bpfu7fiyessj1l2qs5oeq2yin8iec&rid=giphy.gif&ct=g">
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [spushkar710@gmail.com](mailto:spushkar710@gmail.com)
@@ -11,7 +12,7 @@ Web Developer and Coder
 
 <a href="https://www.github.com/spushkar710" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/spushkar710?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 
 ### Skills
 
