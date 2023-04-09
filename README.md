@@ -1,3 +1,4 @@
+![MasterHead](https://res.cloudinary.com/omaha-code/image/upload/ar_4:3,c_fill,dpr_1.0,e_art:quartz,g_auto,h_396,q_auto:best,t_Linkedin_official,w_1584/v1561576558/mountains-1412683_1280.png)
 Hi 👋 My name is Pushkar Singh
 ==============================
 
@@ -10,6 +11,7 @@ Web Developer and Coder
 
 <a href="https://www.github.com/spushkar710" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/spushkar710?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### Skills
 
